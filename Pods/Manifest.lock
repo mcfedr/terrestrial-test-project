@@ -1,0 +1,10 @@
+PODS:
+  - Terrestrial (0.3.6-beta2)
+
+DEPENDENCIES:
+  - Terrestrial (~> 0.3.6-beta)
+
+SPEC CHECKSUMS:
+  Terrestrial: b389626a0d55e20a228b8de5f0ab419b8ce226a0
+
+COCOAPODS: 0.39.0

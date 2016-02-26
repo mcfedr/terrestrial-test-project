@@ -8,6 +8,7 @@
 
 import UIKit
 import CoreData
+import Terrestrial
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
